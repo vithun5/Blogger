@@ -1,0 +1,8 @@
+.navbarAfterScroll {
+  background-color: white !important;
+  color: black !important;
+}
+.navbarBeforescroll {
+  background-color: #4583aa !important;
+  box-shadow: none !important;
+}
